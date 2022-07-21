@@ -1,1 +1,5 @@
-# WinFormsApp1
+# Simple Stopwatch
+
+(Windows Form App)
+
+C#
